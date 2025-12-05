@@ -49,7 +49,7 @@ The trained models are integrated into an iterative controller (ROS 2). To handl
 $$dx = dt \cdot \frac{step\_max}{||dt||}$$
 This ensures the input to the NN remains within the "trust region" of the learned local manifold (typically $||dt|| < 0.05m$).
 
-## 📂 Repository Structure
+## Repository Structure
 
 Based on the report, the codebase is organized as follows:
 
@@ -68,7 +68,7 @@ Based on the report, the codebase is organized as follows:
 └── README.md
 ```
 
-## 📊 Results
+## Results
 
 ### Regression Performance
 
