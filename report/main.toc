@@ -1,0 +1,35 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Data Analysis}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Dataset Description}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Data Preprocessing and Filtering}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Dataset Splitting}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Methodology}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Model Architecture}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Training Protocol}{4}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Early Stopping}{4}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Closed-Loop Control Strategy}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Hyperparameter Optimization}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Search Space}{5}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Optimization Results and Analysis}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Optimization Results without Residual Connections}{6}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Case Study 1: Reacher3 (Low Dimensionality)}{6}{subsubsection.5.1.1}%
+\contentsline {paragraph}{Analysis of Hyperparameter Landscape}{6}{table.caption.2}%
+\contentsline {subsubsection}{\numberline {5.1.2}Case Study 2: Reacher4 (Mid Dimensionality)}{6}{subsubsection.5.1.2}%
+\contentsline {paragraph}{Architectural Insights for 4-DOF Control}{7}{table.caption.3}%
+\contentsline {subsubsection}{\numberline {5.1.3}Case Study 3: Reacher6 (High Dimensionality)}{7}{subsubsection.5.1.3}%
+\contentsline {paragraph}{The Limit of Standard MLPs in High Dimensions}{7}{table.caption.4}%
+\contentsline {subsection}{\numberline {5.2}Optimization Results with Residual Connections}{8}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Case Study 1: Reacher3 (Low Dimensionality)}{8}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Case Study 2: Reacher4 (Mid Dimensionality)}{8}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Case Study 3: Reacher6 (High Dimensionality)}{9}{subsubsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.3}Final Recommended Architectures}{10}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Reacher3: The "Funnel" MLP}{10}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Reacher4: The "Wide-Body" MLP}{10}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Reacher6: The Deep ResNet}{10}{subsubsection.5.3.3}%
+\contentsline {section}{\numberline {6}Experimental Results}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Regression Performance}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Visual Analysis of Predictions}{11}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Reacher 3 and 4: Deterministic Mapping}{11}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Reacher 6: The Null-Space Effect}{12}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.3}Closed-Loop Control Verification}{12}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Conclusions and Future Work}{13}{section.7}%
