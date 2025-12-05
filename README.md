@@ -1,7 +1,7 @@
 # Model-Free Robot Control: Learning Inverse Differential Kinematics
 
-[cite_start]**Author:** Luca Franzin [cite: 3]
-[cite_start]**Course:** Machine Learning 2025/2026 [cite: 12]
+**Author:** Luca Franzin
+**Course:** Machine Learning 2025/2026
 
 ## Project Overview
 
